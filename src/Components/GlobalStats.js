@@ -38,6 +38,7 @@ export default function GlobalStats() {
 
   return (
     <div className={classes.root}>
+        <h1>Global Covid-19 Statistics</h1>
       <Grid container spacing={3}>
         {Object.keys(GlobalApiData).map((key, ind) => {
             // console.log(key);

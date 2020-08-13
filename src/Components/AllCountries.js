@@ -39,6 +39,7 @@ export default function AllCountries() {
 
   return (
     <div className={classes.root}>
+        <h1>All Country Covid-19 Statistics</h1>
       <table className={classes.table}>
           <th>Title</th>
           <th>Total Cases</th>
