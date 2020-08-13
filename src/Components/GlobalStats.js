@@ -53,5 +53,5 @@ export default function GlobalStats() {
         })}
       </Grid>
     </div>
-  );
+  )
 }

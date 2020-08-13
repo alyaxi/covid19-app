@@ -71,7 +71,7 @@ export default function NavBar() {
       <AppBar position="static">
         <Toolbar>
           <Typography className={classes.title} variant="h6" noWrap>
-            Covid-19 Analyzer
+            Covid-19 Tracker
           </Typography>
           <div className={classes.search}>
             <div className={classes.searchIcon}>
